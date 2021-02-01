@@ -95,7 +95,6 @@ public class Kadai2_1 {
         					}
         				}
         			}
-        			//ツーカード
         			else if(numCount[b] == 2) {
         				int d = 0;
         				for(int c = 0; c < 13; ++c) {
